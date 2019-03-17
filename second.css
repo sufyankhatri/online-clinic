@@ -1,0 +1,98 @@
+body{
+background-image : url('clinic.jpg');	
+}
+
+.main{
+	font-size: 20px;
+    width:800px;
+	margin:0 auto;
+	border-left: 2px solid #0f4359;
+    padding-left: 10px;
+    border-right: 2px solid #0f4359;
+}
+.fa {
+    padding: 20px;
+    margin:0 auto;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.social{
+	margin-left: 550px;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-google{
+    background: #e81717;
+    color: white;
+	
+}
+.container{
+    float: right;
+    margin-left: 100px;
+}
+.column{
+	width: 30%;
+	float:left;
+	margin: 3%;
+    margin-left: 60px;
+	padding-bottom: 22%;	
+	/*background-color: #4253f4;*/
+    background-color: #0f4359;
+    color: white;
+}
+.outer{
+    margin-left: 80px;
+    margin-right: 50px;
+    
+}
+
+.inner{
+    width:28%;
+    float: left;
+    margin:1.66%;
+    padding-bottom: 20%;
+    background-color: #0f4359; 
+    color:white;
+}
+.inner:hover{
+    background-color: #419df4; 
+}
+.column:hover{
+	background-color: #419df4;
+
+}
+.h{
+	
+    margin-top: 20%;
+}
+.navbar-custom{
+    background-color: #aabedd;
+    
+}
+
+.sub{
+    color:#0e2ba0;
+}
+
+h6{
+    font-family: comic Sans MS;
+}
